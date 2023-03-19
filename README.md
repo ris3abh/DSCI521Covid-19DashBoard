@@ -5,8 +5,8 @@
 ## Requirements
 
 ## About the Dataset: 
-Dataset #1: 'Mexican covid-19 dataset': https://www.kaggle.com/datasets/meirnizri/covid19-dataset
-Dataset #2: Official time-series dataset(Mexico): https://datos.covid-19.conacyt.mx/#DownZCSV
+1. 'Mexican covid-19 dataset': https://www.kaggle.com/datasets/meirnizri/covid19-dataset
+2. 'Official time-series dataset(Mexico)': https://datos.covid-19.conacyt.mx/#DownZCSV
 
 ## 1. 'Mexican covid-19 dataset' was provided by the Mexican government. this dataset contains an enormous number of anonymized patient-related information including pre-conditions. 
 # The raw dataset consists of 21 unique features and 1,048,576 unique patients. 
