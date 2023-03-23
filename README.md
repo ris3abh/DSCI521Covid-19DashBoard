@@ -1,8 +1,5 @@
 # DSCI521Covid-19DashBoard
 
-## Introduction 
-
-## Requirements
 
 ## About the Dataset: 
 1. 'Mexican covid-19 dataset': https://www.kaggle.com/datasets/meirnizri/covid19-dataset
@@ -35,9 +32,7 @@
 
 ## 2. 'Official time-series dataset(Mexico)' was provided by the mexican government about the daily cases of Covid-19 in the country. The 4 CSV files contain data about Suspected cases, Confirmed cases, Death cases and Negative Cases in a time series format for all the cities in mexico. 
 
-## Inspriation: 
 
-## References:
 
 
 
