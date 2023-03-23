@@ -33,6 +33,15 @@
 ## 2. 'Official time-series dataset(Mexico)' was provided by the mexican government about the daily cases of Covid-19 in the country. The 4 CSV files contain data about Suspected cases, Confirmed cases, Death cases and Negative Cases in a time series format for all the cities in mexico. 
 
 
+## Challenges & Limitations 
+* Cleaning the data-set like removing the NULL values and changing the date format of the patient died column 
+  - null values were changed to 97, 98, and/or 99
+  - reformat date of die (999-99-99) to died column 
+
+
+## reference: 
+
+
 
 
 
