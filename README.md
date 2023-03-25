@@ -42,6 +42,14 @@
   - null values were changed to 97, 98, and/or 99
   - reformat date of die (999-99-99) to died column 
 
+## Team and Individual contributions:
+- Jeromey Abraham – Data visualization, Data cleaning, Healthcare expert
+- Jibin Joby - SQL, Python, Tableau
+- Vishnu Murali – Python, SQL, Data Analysis, Data Visualization, Tableau
+- Mohamed Shehaf Aakil Sharfudeen – Python, SQL, Data Cleaning
+- Rishabh Sharma - Python,  SQL,  Data Analysis, Data visualization
+- Shai Wudkwych – Python, SQL, healthcare data analysis, Data visualization
+
 
 
 
