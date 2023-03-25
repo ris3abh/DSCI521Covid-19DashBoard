@@ -5,6 +5,10 @@
 1. 'Mexican covid-19 dataset': https://www.kaggle.com/datasets/meirnizri/covid19-dataset
 2. 'Official time-series dataset(Mexico)': https://datos.covid-19.conacyt.mx/#DownZCSV
 
+##Project Scope
+- The project is used to analyze the death rates due to covid 19 based on the demographics like age, sex and location.
+- Factors like previous health conditions of the patients and their condition during hospitalization were also taken into consideration while analysis.
+
 ## 1. 'Mexican covid-19 dataset' was provided by the Mexican government. this dataset contains an enormous number of anonymized patient-related information including pre-conditions. 
 # The raw dataset consists of 21 unique features and 1,048,576 unique patients. 
 - sex: 1 for female and 2 for male.
