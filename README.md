@@ -5,7 +5,7 @@
 1. 'Mexican covid-19 dataset': https://www.kaggle.com/datasets/meirnizri/covid19-dataset
 2. 'Official time-series dataset(Mexico)': https://datos.covid-19.conacyt.mx/#DownZCSV
 
-##Project Scope
+## Project Scope:
 - The project is used to analyze the death rates due to covid 19 based on the demographics like age, sex and location.
 - Factors like previous health conditions of the patients and their condition during hospitalization were also taken into consideration while analysis.
 
